@@ -1,0 +1,2 @@
+João Silva;30;M;01/01/1995;12345678900;99999-0000;joao@email.com;Rua A, 123
+Maria Souza;28;F;15/05/1997;98765432100;98888-1111;maria@email.com;Av. B, 456
